@@ -221,13 +221,12 @@ limit 5;
 
 -- CTE solution to find the top 5 skills per job postings
 with remote_jobs as (
-    select
-        
-        job_id
+    select    
+    job_id
     from
-        job_postings_fact
+    job_postings_fact
     WHERE       
-        job_location = 'Anywhere'  AND job_title_short = 'Data Analyst'
+    job_location = 'Anywhere'  AND job_title_short = 'Data Analyst'
       
 )
 
