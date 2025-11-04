@@ -1,4 +1,4 @@
--- joins solution to find the top in-demand 5 in data analysis jobs skills (remote and on-site)
+-- joins solution to find the top in-demand 5 skills in data analysis jobs (remote and on-site)
 select 
     row_number() OVER (ORDER BY(count(j.job_id)) DESC) as row_number,
     d.skills,
