@@ -71,7 +71,7 @@ limit 10;
 
 
 
-![Top_Paying_Roles](assets\Top_Paying_Roles.png)
+![Top_Paying_Roles](assets/Top_Paying_Roles.png)
 *this bar chart visualizes the salary for the top 10 roles for data analysts, showing how Mantys stands far above the rest.*
 
 
@@ -103,7 +103,7 @@ order by salary_year_avg desc
 ```
 Analyzing the top 10 highest-paying data analytics roles showed a clear trend in the skills employers value most. **SQL** led as the most frequently mentioned skill, followed closely by **Python** and **Tableau**. This highlights the importance of combining strong data manipulation, programming, and visualization skills to excel in high-paying analytics positions.
 
-![Skills_for_top_paying_jobs](assets\Skill_for_top_paying_jobs.png)
+![Skills_for_top_paying_jobs](assets/Skill_for_top_paying_jobs.png)
 
 
 ## 3. Top In-demand Skills
@@ -215,7 +215,7 @@ Overall, the data reveals strong salary potential for professionals skilled in *
 
 These findings suggest that advanced, domain-specific skills are particularly valuable for senior and specialized positions.
 
-![Top_Paying_Skills](assets\Top_Paying_Skills.png)
+![Top_Paying_Skills](assets/Top_Paying_Skills.png)
 
 
 
